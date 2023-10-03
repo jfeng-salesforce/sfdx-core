@@ -110,6 +110,10 @@ We couldn't find a template with the ID specified in the scratch org definition.
 
 The template specified in the Scratch Definition isn’t supported. Specify a generic edition (such as Developer or Enterprise), or specify a template ID.
 
+# C-1035
+
+The snapshot is no longer valid.  Please delete and create a new snapshot, or select a different snapshot.
+
 # C-9999
 
 A fatal signup error occurred. Please try again. If you still see this error, contact Salesforce Support for assistance
